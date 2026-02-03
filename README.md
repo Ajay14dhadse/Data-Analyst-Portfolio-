@@ -3,7 +3,7 @@ Complete data analyst portfolio showcasing projects in Power Bi , SQL (PostgreSQ
 ## Skills
 - Power Bi
 - SQL (PostgreSQL)
-- Python
+- Python and (python libraries)
 - Excel
 
 ## Projects

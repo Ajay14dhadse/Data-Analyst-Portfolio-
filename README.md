@@ -23,12 +23,6 @@ Screenshots added below
 ![Monthly Overview](Screenshot 2026-02-02 200809.png)
 ![Daily sales view](Screenshot 2026-02-02 200655.png)
 
-## Python - Zomato Data Analysis 
-Exploratory data analysis project using python to 
-extract business insights from zomato restaurant dataset 
-full jupyter notebook and visualization availabe in python folder. 
-
-** 
 
 ## SQL - Online BookStore Project 
 
@@ -66,6 +60,12 @@ PostgreSQL
 database analysis project using postgresql focusing on sales , 
 customer , and revenue insights 
 queries and screenshots included in sql folder.
+
+
+## Python - Zomato Data Analysis 
+Exploratory data analysis project using python to 
+extract business insights from zomato restaurant dataset 
+full jupyter notebook and visualization availabe in python folder. 
 
 ** Folder contents ** 
 - Zomato_project_ipynb' -> full analysis

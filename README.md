@@ -14,7 +14,7 @@ KPI cards : Total sales , Total Quantity, Average Sales , Total Transaction .
 Monthly sales analysis using month slicer .
 Daily sales analysis using date slicer 
 Visuals : Line chart, Bar chart, Map chart, Pie chart, Funnel chart.
-Payment method and customer rating analysis
+Payment method and customZer rating analysis
 
 ** Tools Used : Power bi , Dax, Excel
 Screenshots added below 
@@ -23,6 +23,12 @@ Screenshots added below
 ![Monthly Overview](Screenshot 2026-02-02 200809.png)
 ![Daily sales view](Screenshot 2026-02-02 200655.png)
 
+## Python - Zomato Data Analysis 
+Exploratory data analysis project using python to 
+extract business insights from zomato restaurant dataset 
+full jupyter notebook and visualization availabe in python folder. 
+
+** 
 
 ## SQL - Online BookStore Project 
 
@@ -59,7 +65,23 @@ PostgreSQL
 ### SQL -Online Bookstore Project
 database analysis project using postgresql focusing on sales , 
 customer , and revenue insights 
-queries and screenshots included in sql folder 
+queries and screenshots included in sql folder.
+
+** Folder contents ** 
+- Zomato_project_ipynb' -> full analysis
+including code, charts , and business questions
+- screenshots of charts :
+- Heading & libraries imports screeshot 2026-02-04 215027.png
+- Bar charts screenshot 2026 -02-04 220109.png
+- Histogram hist screenshot 2026-02-04 220332.png
+- other charts screenshots
+
+  ## Screenshots and charts
+  ![Heading & libraries imports](screenshots/ screenshot 2026-02-04 215027.png)
+  ![Bar charts](screenshots/ screenshot 2026-02-04 220109.png)
+  ![histogram](screenshots/ screenshot 2026-02-04 220332.png)
+  ![other charts](screenshots/ screenshot 2026-02-04 .png)
+  
 
 
 **

@@ -17,4 +17,11 @@ Visuals : Line chart, Bar chart, Map chart, Pie chart, Funnel chart.
 Payment method and customer rating analysis
 
 ** Tools Used : Power bi , Dax, Excel
-Screenshots added above 
+Screenshots added below 
+### Power Bi sales Dashboard 
+![Dashboard Overview](Screenshot 2026-02-02 200526.png)
+![Monthly Overview](Screenshot 2026-02-02 200809.png)
+![Daily sales view](Screenshot 2026-02-02 200655.png)
+
+
+
